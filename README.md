@@ -44,5 +44,5 @@
 ## 🚀 Installation
 1. 📥 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/trading-backend.git
+git clone https://github.com/piyushaanand/Trading-Backend.git
 cd trading-backend
